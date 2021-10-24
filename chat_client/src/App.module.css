@@ -1,0 +1,17 @@
+{
+  text-align: center;
+  background-image: url("https://wallpaperboat.com/wp-content/uploads/2020/06/04/42718/geometric-35.jpg");
+  width: 100vw;
+  height: 100vh;
+}
+
+
+.navBar{
+  height: 150px;
+  background-color: rgb(164, 238, 252);
+}
+
+.main{
+  height: 500px;
+  background-color: rgb(65, 90, 227);
+}

@@ -1,0 +1,12 @@
+.messageWindow{
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  overflow: auto;
+}
+
+.message{
+  background-color: rgb(69, 227, 182);
+  border-radius: 4px;
+  margin-bottom: 10px;
+}

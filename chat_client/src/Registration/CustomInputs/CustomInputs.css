@@ -1,0 +1,10 @@
+.errorMess{
+  color:red;
+}
+.noError{
+  display: none;
+  color:green;
+}
+input{
+  outline: none;
+}

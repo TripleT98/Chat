@@ -1,0 +1,14 @@
+.chatList{
+  width:450px;
+  height:450px;
+  background-color: white;
+  overflow: auto;
+}
+.chat{
+  height: 50px;
+  background-color: green;
+  margin: 0px 10px 10px 10px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
